@@ -1,8 +1,8 @@
+![1](https://github.com/user-attachments/assets/a13e620b-9aa9-4093-bc74-88dfbeefce10)
 # Welcome to your Blinkit Power BI Dashboard project
 
 📁 Project info
-URL: 
-(https://app.powerbi.com/view?r=eyJrIjoiNTJjZjcxNTEtYTQyMy00Mjg2LThmNjYtZjhmODEzYjA1MjA5IiwidCI6ImRhYTU5MmNhLWRlN2ItNGM1NC04ODM2LTkxYTY2OTBmZTE5NyJ9)
+URL: (https://app.powerbi.com/view?r=eyJrIjoiNTJjZjcxNTEtYTQyMy00Mjg2LThmNjYtZjhmODEzYjA1MjA5IiwidCI6ImRhYTU5MmNhLWRlN2ItNGM1NC04ODM2LTkxYTY2OTBmZTE5NyJ9)
 🔧 How can I edit this project?
 There are several ways to update or enhance your Power BI Dashboard.
 
