@@ -1,8 +1,8 @@
 # Welcome to your Blinkit Power BI Dashboard project
 
 📁 Project info
-URL: https://app.powerbi.com/groups/me/reports/a0e53c06-e702-479c-885b-17c37920c614/46dd4e3ceb47ca467997?experience=power-bi
-
+URL: 
+(https://app.powerbi.com/view?r=eyJrIjoiNTJjZjcxNTEtYTQyMy00Mjg2LThmNjYtZjhmODEzYjA1MjA5IiwidCI6ImRhYTU5MmNhLWRlN2ItNGM1NC04ODM2LTkxYTY2OTBmZTE5NyJ9)
 🔧 How can I edit this project?
 There are several ways to update or enhance your Power BI Dashboard.
 
